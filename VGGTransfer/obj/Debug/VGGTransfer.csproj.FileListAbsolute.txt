@@ -1,0 +1,10 @@
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\bin\Debug\VGGTransfer.exe.config
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\bin\Debug\VGGTransfer.exe
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\bin\Debug\VGGTransfer.pdb
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\obj\Debug\VGGTransfer.csprojAssemblyReference.cache
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\obj\Debug\VGGTransfer.csproj.CoreCompileInputs.cache
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\obj\Debug\VGGTransfer.csproj.CopyComplete
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\obj\Debug\VGGTransfer.exe
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\obj\Debug\VGGTransfer.pdb
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\bin\Debug\protobuf-net.dll
+C:\Users\takahashi\source\repos\VGGTransfer\VGGTransfer\bin\Debug\protobuf-net.xml
